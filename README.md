@@ -5,4 +5,4 @@ I'm Jeremy, a product engineer in London. I built these on my own, with AI codin
 - **A real-time liquidity engine on Solana** with event-driven exits. In one week it landed 1,384 exit transactions, about 200 a day, and none failed on-chain.
 - **[XRechnung regression pack](https://github.com/jdsteel61/xrechnung-regression-pack)**: an e-invoicing release-regression service I built, then shut down when a business review found no buyer. The post-mortem says why.
 
-The first three are private. I'm happy to walk through the code.
+The code for the first three is private. I'm happy to walk you through it.
